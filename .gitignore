@@ -1,0 +1,10 @@
+*.o
+*.dSYM/
+.DS_Store
+gen_data
+*.csv
+linreg_demo
+knn_demo
+kmeans_demo
+data/*ubyte
+data/*.gz
